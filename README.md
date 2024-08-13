@@ -47,7 +47,9 @@ EDA involved exploring stock and financial data to answer key questions, such as
 ### Data Analysis
 
 Ration Analysis: Gather financial information from balance sheet, cash flow, and income statement to calculate key financial ratios (ROA, ROE, Debt-to-Equity, Current Ration).
+
 Trend Analysis: Analyzed trends in Apple's stock and financials measures (Net Income, Current Liabilities).
+
 Comperative Analysis: Conducted a side-by-side analysis on Microsoft and Apple's key financial metrics
 
 
