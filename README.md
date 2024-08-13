@@ -12,7 +12,7 @@
 - [Recommendations](#recommendations)
 
 ### Project Overview
-This Project aims to analyze Apple's stock over the past five years and see how their financials correlate to an increase or decrease in stock price. To dive deeper, I compared Apple's financials to Microsoft to see how it they compete with each other.
+This Project aims to analyze Apple's stock over the past five years and see how their financials correlate to an increase or decrease in stock price. To dive deeper, I compared Apple's financials to Microsoft to see how the two tech giants perform relative to each other.
 
 ![Screenshot 2024-08-12 222739](https://github.com/user-attachments/assets/00a58dcc-6434-45bb-8182-0419d1ec8157)
 
