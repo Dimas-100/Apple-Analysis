@@ -14,8 +14,10 @@
 ### Project Overview
 This Project aims to analyze Apple's stock over the past five years and see how their financials correlate to an increase or decrease in stock price. 
 To dive deeper, I compared Apple's financials to Microsoft to see how the two tech giants perform relative to each other.
-[APPL Stock & Financials.pdf](https://github.com/user-attachments/files/19557720/APPL.Stock.Financials.pdf)
 
+[APPL Stock & Financials.pdf](https://github.com/user-attachments/files/19557720/APPL.Stock.Financials.pdf)
+![Screenshot 2025-04-01 165431](https://github.com/user-attachments/assets/696aabd7-836f-4ed2-ac47-6f71668c1c74)
+![Screenshot 2025-04-01 165447](https://github.com/user-attachments/assets/3399143e-e627-4f72-8bd6-b127216fab84)
 
 ### Data Sources
 1. APPL Financials.csv
