@@ -45,11 +45,11 @@ In the initial data preparation phase, I performed the following tasks:
 
 EDA involved exploring stock and financial data to answer key questions, such as:
 
- - Has Apple's stock increae over the years? How does their financials correlate with it's increase or decrease in stock price.
+ - Has Apple's stock increased over the years? How does their financials correlate with it's increase or decrease in stock price?
    
  - How does Apple's financials compare to Microsoft?
    
- - What are the highest and lowest performing prices?
+ - What are the highest and lowest performing prices? 
    
  - Has trading volume increased or decreased? What could have caused the volume to increase or decrease?
  
